@@ -1,5 +1,12 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# App Things
+/pb_data
+/pb_migrations
+pocketbase
+pocketbase.exe
+.env
+
 # dependencies
 /node_modules
 /.pnp
