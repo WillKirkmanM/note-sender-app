@@ -46,7 +46,7 @@ To setup the database, follow these instructions.
 
 1) Download [Pocketbase](https://pocketbase.io/docs) for your operating system.
 2) Drag and drop it into the project directory
-3) Run `$ pocketbase serve` to start the database, the default port is `:8090`
+3) Run `pocketbase serve` to start the database, the default port is `:8090`
 
 # Why?
 I wanted to create a small project with [Pocketbase](https://pocketbase.io/) and [Mantine UI](https://mantine.dev)
