@@ -19,8 +19,8 @@ export default function NoteModal() {
     })
     await setOpened(false)
     await showNotification({
-      title: 'Notification Created!',
-      message: 'Well Done, You Can Know View the Notes'
+      title: 'Note Created!',
+      message: 'Well Done, You Can Now View the Notes'
     })
   }
 
